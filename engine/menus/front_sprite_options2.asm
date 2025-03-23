@@ -45,7 +45,7 @@ FrontSpriteOptions2Text:
 	next " SPEAROW:    RB RG"
 	next " NIDORINO:   RB RG"
 	next " GOLBAT:     Y  RB"
-	next " GOLDUCK:    RB RG"
+	next " GOLDUCK:    Y RG"
 	next " MANKEY:     RB RG"
 	next " ARCANINE:   RB RG"
 	next " ABRA:       RB RG@"
