@@ -580,7 +580,7 @@ _DragoniteDexEntry::
 
 _DoduoDexEntry::
 	text "A bird that makes"
-	next "up for its poor"
+	next "up for its lack of"
 	next "flying with its"
 
 	bage "fast foot speed."
