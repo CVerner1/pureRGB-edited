@@ -79,7 +79,7 @@ FrontSpriteOptionsText:
 	db   "SPRITES→FRONT 1"
 	next " BULBASAUR:  RB RG"
 	next " SQUIRTLE:   RB RG"
-	next " BLASTOISE:  RB RG"
+	next " BLASTOISE:  SW RG"
 	next " BUTTERFREE: RB RG"
 	next " PIDGEOTTO:  RB RG"
 	next " PIDGEOT:    RB RG"
