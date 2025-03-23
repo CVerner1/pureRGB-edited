@@ -45,9 +45,9 @@ FrontSpriteOptions5Text:
 	next " JYNX:       RG SW"
 	next " ELECTABUZZ: RB RG"
 	next " PINSIR:     RB RG"
-	next " OMANYTE:    RB RG"
+	next " OMANYTE:    Y RG"
 	next " ARTICUNO:   RB Y"
-	next " ZAPDOS:     RB RG"
+	next " ZAPDOS:     Y RG"
 	next " MEWTWO:     RB RG@"
 
 DrawFrontSpriteOptions5Menu:
