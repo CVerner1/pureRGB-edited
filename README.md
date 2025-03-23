@@ -2,6 +2,8 @@ pureRGB-edited
 
 Slight edits to PureRGB, mainly changing front sprites for some mons
 
+![front sprite replacements](/screenshots/front_sprite_replacements.png?raw=true)
+
 # Pokémon PureRGB (PureRed, PureGreen, PureBlue)
 
 A purist's enhancement of Pokémon Red, Green, and Blue based on the pokered disassembly.
