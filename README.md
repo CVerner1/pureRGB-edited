@@ -11,5 +11,5 @@ other changes
 - Charizard is now Fire/Dragon
 - Gastly/Haunter/Gengar are solely Ghost types
 - Ekans no longer learns smog
-- Doduo/Dodrio can't learn the HM Fly
+- Doduo/Dodrio are no longer Flying types and can't learn the HM Fly
 
