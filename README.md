@@ -1,6 +1,6 @@
 # PureRGB-edited 
 
-Slight edits to Vortyne's fantasitic ROMhack: PureRGB. I'm mainly changing front sprites for some mons
+Slight edits to Vortyne's fantastic ROMhack: PureRGB. I'm mainly changing front sprites for some mons
 
 ![front sprite replacements](/screenshots/front_sprite_replacements.png?raw=true)
 
